@@ -1,0 +1,72 @@
+
+------------------Formulário do Pedido-----------------
+Nome do cliente: Erick Nunes
+Cep: 05210-110
+Pedido: Máquina de Barbear
+Distancia em KM: 16499.92305967721
+Valor com frete: 105.1895500854375785.18955008543757
+------------------Formulário do Pedido-----------------
+Nome do cliente: Lee
+Cep: 1234564
+Pedido: Máquina de Barbear
+Distancia em KM: 16499.92305967721
+Valor com frete: 105.18955008543757
+------------------Formulário do Pedido-----------------
+Nome do cliente: Lee
+Cep: 1234564
+Pedido: Máquina de Barbear
+Distancia em KM: 16499.92305967721
+Valor com frete: 75.18955008543757
+------------------Formulário do Pedido-----------------
+Nome do cliente: Lima
+Cep: 123131546
+Pedido: Maquina de Barbear
+Distancia em KM: 16499.92305967721
+Valor Final: 105.20425540180275.204255401802105.204255401802
+------------------Formulário do Pedido-----------------
+Nome do cliente: Erick Nunes
+Cep: 05210-000
+Pedido: Barbeador
+Distancia em KM: 16499.92305967721
+Valor Final: 75.20425540180299.49976917903163
+------------------Formulário do Pedido-----------------
+Nome do cliente: Erick
+Cep: 05210-110
+Pedido: Barbeado
+Distancia em KM: 16499.92305967721
+Valor Final: 59.4997691790316399.4997691790316399.49976917903163
+------------------Formulário do Pedido-----------------
+Nome do cliente: teste
+Cep: 12131546
+Pedido: teste
+Distancia em KM: 16499.92305967721
+Valor Final: 99.49976917903163
+------------------Formulário do Pedido-----------------
+Nome do cliente: Teste2
+Cep: 05210-110
+Pedido: Teste2
+Distancia em KM: 16499.92305967721
+Valor Final: 9.0
+------------------Formulário do Pedido-----------------
+Nome do cliente: Erick Nunes
+Cep: 05210-110
+Pedido: Máquina de Barbear
+Distancia em KM: 16843.00387725892
+Valor Final: 100.5290116317767795.52901163177677
+
+------------------Formulário do Pedido-----------------
+Nome do cliente: Erick Nunes
+Cep: 12341564
+Pedido: Chapéu Russo URSS
+Distancia em KM: 13563.844594601536
+Valor Final: 145.6417939009941795.64179390099417
+
+
+
+------------------Formulário do Pedido-----------------
+Nome do cliente: Erick
+Cep: 123456789
+Pedido: Teste
+Distancia em KM: 16499.92305967721
+Valor Final: 
+========================================================105.1895500854375785.18955008543757
